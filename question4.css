@@ -1,0 +1,11 @@
+.btn {
+  display: grid;
+  grid-area: center;
+  background-color: rgb(215, 84, 233);
+  color: white;
+  border: 0;
+  border-radius: 4px;
+  outline: 0;
+  cursor: pointer;
+  padding: 7px;
+}

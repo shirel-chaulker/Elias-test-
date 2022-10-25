@@ -1,0 +1,10 @@
+
+
+1)	Flex-direction- allows me to place the items according to the (x) axis or the (y) axis
+2) The flex container becomes flexible by setting the display property to flex:
+flex-direction
+flex-wrap
+flex-flow
+justify-content
+align-items
+align-content

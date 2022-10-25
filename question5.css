@@ -1,0 +1,15 @@
+table,
+th,
+td {
+  border: 3px solid black;
+}
+
+table {
+  align-items: center;
+  height: 50%;
+  margin-left: 350px;
+}
+
+h3 {
+  margin-left: 440px;
+}
